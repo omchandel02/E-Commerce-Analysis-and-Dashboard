@@ -59,5 +59,4 @@ Behavior, Returns).
 - Swap the static CSVs for a live database connection in Power BI and set up scheduled refresh.
 
 
-https://www.linkedin.com/in/mohammed-sahil-873605394/
-mohammedsahil0116@gmail.com
+https://www.linkedin.com/in/om-chandel/
