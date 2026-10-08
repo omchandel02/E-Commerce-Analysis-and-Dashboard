@@ -1,0 +1,30 @@
+Customers
+↓
+CustomerID - PK
+email - UK
+↓
+Orders
+↓
+Order_id - PK
+CustomerID - FK
+↓
+Order items
+↓
+Order_item_id - PK
+Order_id - FK
+Product_id - FK
+↓
+Products
+↓
+ProductID - PK
+
+
+Orders
+↓
+returns
+↓
+return_id - PK
+Order_item_id - FK
+Order_id - FK
+Product_id - FK
+CustomerID - FK
